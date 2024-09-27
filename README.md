@@ -4,7 +4,8 @@ Script en python para hacer Screenrecorder y Screenshot
 * F5 = INICIAR GRABACION DE PANTALLA
 * F6 = DETENER Y GUARDAR GRABACION DE PANTALLA
 * F7 = TOMAR CAPTURE DE PANTALLA
-  Por defecto el script esta diseñado para guardar screenshot en C:\Users\{USUARIO}\Videos\Screenrecorder y Screenshots en C:\Users\{USUARIO}\Pictures\Screenshot
+
+NOTA: Por defecto el script esta diseñado para guardar screenrecorder en C:\Users\{USUARIO}\Videos\Screenrecorder y Screenshots en C:\Users\{USUARIO}\Pictures\Screenshot
 
 ### COMO INSTALAR ###
 METODO 1
@@ -17,8 +18,8 @@ MEOTODO 2
 - pip install -r requirements.txt
 - pythonw Pyshot.pyw
 
-  ESTE SCRIT CORRE COMPLETAMENTE EN SEGUNDO PLANO , SIN MOSTRAR UN INDICADOR QUE ESTA EN CURSO
-  ES RECOMENDADO PONERLO A QUE SE EJECUTE AL INICIAR EL WINDOWS O AL ENCENDER TU PC.
+IMPORTANTE: ESTE SCRIT CORRE COMPLETAMENTE EN SEGUNDO PLANO , SIN MOSTRAR UN INDICADOR QUE ESTA EN CURSO
+ES RECOMENDADO PONERLO A QUE SE EJECUTE AL INICIAR EL WINDOWS O AL ENCENDER TU PC.
 
 
 
