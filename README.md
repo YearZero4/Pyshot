@@ -7,8 +7,9 @@ Script en python para hacer Screenrecorder y Screenshot
   Por defecto el script esta diseñado para guardar screenshot en C:\Users\{USUARIO}\Videos\Screenrecorder y Screenshots en C:\Users\{USUARIO}\Pictures\Screenshot
 
 ### COMO INSTALAR ###
-1. Puedes descargar el binario .exe o el archivo comprimido que contiene el binario en :
-   https://github.com/YearZero4/Pyshot/releases/tag/Pyshot-1
+METODO 1
+- Puedes descargar el binario .exe o el archivo comprimido que contiene el binario en :
+https://github.com/YearZero4/Pyshot/releases/tag/Pyshot-1
 
 MEOTODO 2
 - git clone https://github.com/YearZero4/Pyshot.git
