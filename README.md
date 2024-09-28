@@ -4,6 +4,7 @@ Script en python para hacer Screenrecorder y Screenshot
 * F5 = INICIAR GRABACION DE PANTALLA
 * F6 = DETENER Y GUARDAR GRABACION DE PANTALLA
 * F7 = TOMAR CAPTURE DE PANTALLA
+* PAUSE / BREAK = FINALIZAR EL PROGRAMA
 
 NOTA: Por defecto el script esta diseñado para guardar screenrecorder en C:\Users\{USUARIO}\Videos\Screenrecorder y Screenshots en C:\Users\{USUARIO}\Pictures\Screenshot
 
